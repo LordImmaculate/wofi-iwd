@@ -1,3 +1,4 @@
+#!/usr/bin/bun
 import { $ } from "bun";
 
 const station = "wlan0";
